@@ -15,6 +15,12 @@ Para executar este aplicativo, você precisa ter Python instalado em sua máquin
 
 ```bash
 pip install Pillow
-
-```bash
+````
+````bash
 pip install tk
+`````
+## Como instalar
+
+````bash
+python Redimensionar.py
+````
