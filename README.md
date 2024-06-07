@@ -24,3 +24,11 @@ pip install tk
 ````bash
 python Redimensionar.py
 ````
+## Como Usar
+
+Aqui está uma prévia da interface do aplicativo:
+
+![Interface do Aplicativo](images/interface.png)
+
+1. Clone o repositório ou baixe o arquivo EXE do aplicativo.
+2. Se estiver executando a partir do código-fonte, navegue até o diretório do arquivo `Redimensionar.py` e execute o seguinte comando no terminal:
