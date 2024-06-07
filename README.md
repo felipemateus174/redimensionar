@@ -15,3 +15,6 @@ Para executar este aplicativo, você precisa ter Python instalado em sua máquin
 
 ```bash
 pip install Pillow
+
+```bash
+pip install tk
