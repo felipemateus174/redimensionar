@@ -27,10 +27,13 @@ Aqui está uma prévia da interface do aplicativo:
 ![Interface do Aplicativo](images/interface.png)
 
 1. Clone o repositório ou baixe o arquivo EXE do aplicativo.
+
 ````bash
 git clone https://github.com/felipemateus174/redimensionar.git
 ````
+
 3. Se estiver executando a partir do código-fonte, navegue até o diretório do arquivo `Redimensionar.py` e execute o seguinte comando no terminal:
+
 ````bash
 python Redimensionar.py
 ````
