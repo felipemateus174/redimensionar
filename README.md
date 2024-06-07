@@ -19,11 +19,7 @@ pip install Pillow
 ````bash
 pip install tk
 `````
-## Como instalar
 
-````bash
-python Redimensionar.py
-````
 ## Como Usar
 
 Aqui está uma prévia da interface do aplicativo:
@@ -31,4 +27,10 @@ Aqui está uma prévia da interface do aplicativo:
 ![Interface do Aplicativo](images/interface.png)
 
 1. Clone o repositório ou baixe o arquivo EXE do aplicativo.
-2. Se estiver executando a partir do código-fonte, navegue até o diretório do arquivo `Redimensionar.py` e execute o seguinte comando no terminal:
+````bash
+git clone https://github.com/felipemateus174/redimensionar.git
+````
+3. Se estiver executando a partir do código-fonte, navegue até o diretório do arquivo `Redimensionar.py` e execute o seguinte comando no terminal:
+````bash
+python Redimensionar.py
+````
